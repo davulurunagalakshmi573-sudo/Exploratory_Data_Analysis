@@ -16,13 +16,13 @@ Perform exploratory data analysis on the Titanic dataset to understand passenger
 - Plotly
 
 ## Analysis Performed
-✔ Data Cleaning
-✔ Missing Value Handling
-✔ Statistical Summary
-✔ Survival Analysis
-✔ Passenger Class Analysis
-✔ Age Distribution
-✔ Visualizations
+Data Cleaning
+Missing Value Handling
+Statistical Summary
+Survival Analysis
+Passenger Class Analysis
+Age Distribution
+Visualizations
 
 ## Results
 - Most passengers travelled in Third Class.
